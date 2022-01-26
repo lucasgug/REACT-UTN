@@ -1,0 +1,3 @@
+para crear react lo instalo con npm i create-react-app -g
+
+despues creo con create-react-app (nombre )
